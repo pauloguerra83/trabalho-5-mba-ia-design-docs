@@ -9,3 +9,5 @@ coverage/
 .idea/
 .vscode/
 *.tsbuildinfo
+/docs/.obsidian
+/docs/mba-templates-guia
